@@ -1,0 +1,3 @@
+conf.set("mapred.jar", "d:\\test1.jar");
+        conf.set("mapreduce.framework.name", "yarn");  
+        conf.set("yarn.resourcemanager.address", "127.0.0.1:8032");  
